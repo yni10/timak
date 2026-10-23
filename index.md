@@ -5,9 +5,11 @@ list_title: Zápisnice zo stretnutí
 ---
 
 ## O projekte
+
 Cieľom projektu je **evidenčný systém dochádzky** pre učiteľov. Pozostáva z **mobilnej aplikácie (Android)**, ktorá pomocou NFC načíta ISIC kartu študenta pri príchode na hodinu, a z **webovej aplikácie**, ktorá spravuje semester, rozvrh, dochádzku a prepojenie na akademický informačný systém (AIS). Podrobnosti nájdete na stránke [Zadanie](zadanie).
 
 ## Aktuálny stav projektu
+
 **Posledná aktualizácia:** 23. 10. 2026
 
 **Hotové**
@@ -24,6 +26,7 @@ Cieľom projektu je **evidenčný systém dochádzky** pre učiteľov. Pozostáv
 - ...
 
 ## Plán konzultácií
+
 | Konzultácia | Zameranie | Stav |
 |---|---|---|
 | 1. | Oboznámenie sa so zadaním | hotovo |
@@ -31,6 +34,7 @@ Cieľom projektu je **evidenčný systém dochádzky** pre učiteľov. Pozostáv
 | 3. | Úprava požiadaviek | plánované |
 
 ## Úlohy projektu
+
 | Úloha | Stav |
 |---|---|
 | 1. Výber knižníc na snímanie ISIC karty v Androide | rozpracované |
@@ -39,5 +43,6 @@ Cieľom projektu je **evidenčný systém dochádzky** pre učiteľov. Pozostáv
 | 4. Verifikácia a testovanie | plánované |
 
 ## Odkazy
+
 - [Repozitár s kódom](https://github.com/VAS-UCET/REPO)
 - [Správa úloh](https://github.com/VAS-UCET/REPO/issues)

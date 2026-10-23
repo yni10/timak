@@ -1,0 +1,55 @@
+---
+---
+@import "minima";
+
+$accent: #2563eb;
+
+body {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: #f8fafc;
+  color: #1e293b;
+}
+
+.site-header {
+  border: 0;
+  background: $accent;
+}
+.site-title, .site-title:visited,
+.site-nav .page-link, .site-nav .page-link:visited {
+  color: #fff !important;
+}
+.site-nav .page-link:hover { text-decoration: underline; }
+
+@media screen and (max-width: 600px) {
+  .site-nav { background: #fff; border-color: #cbd5e1; }
+  .site-nav .page-link { color: #1e293b !important; }
+}
+
+.wrapper { max-width: 900px; }
+
+h2 {
+  margin-top: 1.8em;
+  padding-bottom: 0.2em;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+a { color: $accent; }
+
+table {
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+  background: #fff;
+}
+th { background: #e2e8f0; }
+th, td { padding: 8px 12px; border: 1px solid #cbd5e1; }
+
+.post-list > li {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 10px 16px;
+  margin-bottom: 10px;
+}
+.post-meta { font-size: 0.85rem; color: #64748b; }
+.footer-col-wrapper { color: #64748b; }
