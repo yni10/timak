@@ -22,7 +22,8 @@ body {
 
 @media screen and (max-width: 600px) {
   .site-nav { background: #fff; border-color: #cbd5e1; }
-  .site-nav .page-link { color: #1e293b !important; }
+  .site-nav .page-link,
+  .site-nav .page-link:visited { color: #1e293b !important; }
 }
 
 .wrapper { max-width: 900px; }
