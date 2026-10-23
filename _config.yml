@@ -1,5 +1,5 @@
-title: Názov projektu
-description: Tímový projekt – názov predmetu, škola
+title: Evidenčný systém dochádzky
+description: Tímový projekt – mobilná (Android, ISIC/NFC) a webová aplikácia na evidenciu dochádzky
 lang: sk
 timezone: Europe/Bratislava
 theme: minima
@@ -8,5 +8,6 @@ minima:
   date_format: "%d. %m. %Y"
 header_pages:
   - index.md
+  - zadanie.md
   - tim.md
   - dokumentacia.md

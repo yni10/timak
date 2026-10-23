@@ -3,10 +3,10 @@ layout: page
 title: Tím
 ---
 
+**Vedúci projektu:** Meno Priezvisko
+
 | Meno | Rola | Kontakt |
 |---|---|---|
 | Meno Priezvisko | vedúci tímu | email@example.com |
 | Meno Priezvisko | vývojár | email@example.com |
-| Meno Priezvisko | tester | email@example.com |
-
-**Vedúci projektu / vyučujúci:** Meno Priezvisko
+| Meno Priezvisko | vývojár | email@example.com |

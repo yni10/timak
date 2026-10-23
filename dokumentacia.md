@@ -5,8 +5,10 @@ title: Dokumentácia
 
 Súbory ukladajte do priečinka `docs/`.
 
-- [Analýza](docs/analyza.pdf)
-- [Návrh](docs/navrh.pdf)
-- [Používateľská príručka](docs/prirucka.pdf)
+- [Prehľad problematiky a existujúcich riešení](docs/prehlad-problematiky.pdf)
+- [Use case diagram](docs/use-case.pdf)
+- [Class diagram](docs/class-diagram.pdf)
+- [Návrh databázy](docs/databaza.pdf)
+- [Návrh vzhľadu aplikácie (FE)](docs/navrh-fe.pdf)
 
 Zápisnice zo stretnutí nájdete na [úvodnej stránke](./).
