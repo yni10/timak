@@ -1,0 +1,2 @@
+# timak
+Timovy Projekt zapisnica
