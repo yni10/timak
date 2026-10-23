@@ -1,0 +1,12 @@
+title: Názov projektu
+description: Tímový projekt – názov predmetu, škola
+lang: sk
+timezone: Europe/Bratislava
+theme: minima
+show_excerpts: false
+minima:
+  date_format: "%d. %m. %Y"
+header_pages:
+  - index.md
+  - tim.md
+  - dokumentacia.md

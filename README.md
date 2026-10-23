@@ -1,2 +1,2 @@
-# timak
-Timovy Projekt zapisnica
+# Tímový projekt
+Webová stránka tímu (Jekyll + GitHub Pages).
